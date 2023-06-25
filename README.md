@@ -19,8 +19,8 @@ Classes are 120 min each. Days of the week, times, and locations vary.
 1. **Introduction, Command Line, and GitHub.** (Justin, Jakub) Wed June 14, 3pm-5pm in Hawkins Conference Room (3514)
 2. **Data Types and Flow Control I.** (Justin) Fri June 16, 3pm-5pm in Hawkins Conference Room (3514)
 3. **Data Types and Flow Control II.** (CiCi) Wed June 21, 3pm-5pm in Hawkins Conference Room (3514)
-4. **Datasets and Visualization I.** (Jakub) Fri June 23, 3pm-5pm in Hawkins Conference Room (3514)
-5. **Datasets and Visualization II.** (Amber) Wed June 28, 3pm-5pm in Hawkins Conference Room (3514)
+4. **Datasets and Visualization I.** (Amber) Fri June 23, 3pm-5pm in Hawkins Conference Room (3514)
+5. **Datasets and Visualization II.** (Jakub) Wed June 28, 3pm-5pm in Hawkins Conference Room (3514)
 6. **Genomic Data Analysis.** (Michael) Fri June 30, 3pm-5pm in Hawkins Conference Room (3514)
 7. **Neural Data Analysis.** (CiCi)  Wed July 5, 3pm-5pm in Hawkins Conference Room (3514)
 8. **Machine Learning.** (Amber) Fri July 7, 3pm-5pm in **Wendt Conference Room (5513)**
